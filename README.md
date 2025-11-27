@@ -3,7 +3,7 @@
 ## 使用说明
 支持Windows10/11系统，双击exe文件即可使用，无需安装。
 1. 下载
-    * release中下载
+    * release中[下载](https://github.com/Shicc/TypingCounter/releases)
     * 天翼网盘[下载](https://cloud.189.cn/web/share?code=FjQ36r2QzY7z（访问码：oj0u）)
 2. 字数统计
 首次打开软件，会在软件所在目录保存一个`typing_data.json`，用于保存每天打字的总数，软件关闭后，总次数不会清零，但是按键统计会清零。如果需要移动软件位置，现目前请一并把`typing_data.json`移动到和软件相同的目录里。
